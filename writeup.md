@@ -76,7 +76,7 @@ I did not generate additional data because the network produced good results wit
 
 The architecture is a slightly modified LeNet from the lectures. The modifications consist of a dropout regularization added between the last hidden and the output layers. This helped to improve the condition of the optimizer a lot! The training converged faster with much less oscillations.
 
-![LeNet Architecture](lenet_with_dropout.jpg)
+![LeNet Architecture](lenet_with_dropout.jpg "This is my LeNet")
 
 My final model consisted of the following layers:
 
